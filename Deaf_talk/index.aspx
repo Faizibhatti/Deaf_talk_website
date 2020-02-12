@@ -1,5 +1,5 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="Deaf_talk.Home" %>
-
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="Deaf_talk.Home" culture="auto" meta:resourcekey="PageResource1" uiculture="auto" %>
+<%--new vwesion--%>
 <!doctype html>
 <html class="no-js" lang="zxx">
 
